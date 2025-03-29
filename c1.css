@@ -1,0 +1,19 @@
+#login-form{
+    background-color: beige;
+    max-width: 400px;
+    margin: auto;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+input{
+    width: 90%;
+    padding: 8px;
+    margin: 8px 0;
+}
+button{
+    background-color: rgb(255, 98, 0);
+    padding: 10px 15px;
+     border-radius:50px ;
+}
